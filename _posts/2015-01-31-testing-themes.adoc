@@ -1,0 +1,14 @@
+= testing themes
+
+:hp-image: http://andreysidorov.com/content/images/2013/Nov/meccano.jpg
+:published_at: 2015-01-31
+:hp-tags: HubPress, Blog, Open Source, Travel
+
+= Hello!
+
+Test paragraph
+
+[TIP]
+test text
+
+
